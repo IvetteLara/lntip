@@ -14,6 +14,9 @@
 • Tener un espacio libre de al menos 512 GB
 ```
 
+##Nota:
+Todo lo recomendamos hacer en LINUX, pero también tiene opción de utilizar Windows, instalando Linux como Sub-System. 
+
 ##Instalación:
 
 ```bash
